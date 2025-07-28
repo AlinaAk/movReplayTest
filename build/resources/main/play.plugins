@@ -1,0 +1,5 @@
+0:play.modules.logger.RePlayLogoPlugin
+100:play.modules.logger.RequestLogPlugin
+200:play.data.validation.ValidationPlugin
+500:play.i18n.MessagesPlugin
+800:play.modules.gtengineplugin.GTEnginePlugin
